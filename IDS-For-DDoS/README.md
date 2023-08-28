@@ -4,6 +4,6 @@
 
 - This cyber tool was designed for a College Project in 2022 using Java anJNePcap Library.
 - This tool **detects DDoS Attacks** , but is planned to get more detection features in the future.
-    - **Languages Used:** Java, CSS
+    - **Languages Used:** Java,
     - **Platforms/Libraries:** JavaFX, JNetPCap Library, Git
     - **Backend:** Apache Server, MongoDB
